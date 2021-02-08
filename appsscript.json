@@ -1,0 +1,11 @@
+{
+    "dataStudio": {
+      "name": "Facebook Post Analytics",
+      "logoUrl": "https://raw.githubusercontent.com/npm/logos/master/npm%20logo/npm-logo-red.png",
+      "company": "Company name",
+      "companyUrl": "https://developers.google.com/datastudio/",
+      "addonUrl": "https://github.com/google/datastudio/tree/master/community-connectors/npm-downloads",
+      "supportUrl": "https://github.com/google/datastudio/issues",
+      "description": "Get analytics for Facebook Posts."
+    }
+  }
